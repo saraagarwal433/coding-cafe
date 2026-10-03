@@ -1,0 +1,78 @@
+python3 --version
+pwd
+ls
+ls -a
+ls -l
+ls
+mkdir coding-cafe
+ls
+mkdir /home/saraa_12/coding-cafe/week01
+ls
+ls coding-cafe/
+mkdir coding-cafe/week02
+ls coding-cafe/
+cd coding-cafe
+ls -l
+mkdir notes.md
+ls
+rm -r notes.md
+ls
+mkdir coding-cafe/week02/notes.md
+touch week02/notes.md
+ls
+ls week02
+mkdir coding-cafe/README.md
+touch README.md
+ls
+cd
+ls -l
+ls -a
+ls coding-cafe\week02
+ls
+ls coding-cafe\week02
+mkdir coding-cafe\week02
+ls
+rm -r coding-cafeweek02
+ls
+ls coding-cafe\
+ls coding-cafe\week02\
+cd coding-cafe
+ls week02
+cd
+pwd
+ls
+ls -Force
+ls -a
+ls -l
+README.md README-backup.md
+cd coding-cafe
+README.md README-backup.md
+cp README.md README-backup.md
+mv README-backup.md week01\
+cd week01
+mv README-backup.md old-readme.md
+ls
+echo $PATH
+which python3
+which pip
+which ls
+pyton3
+cd ~/coding-cafe
+python3 -m venv .venv
+ls
+ls -a
+source .venv/bin/activate
+which python3
+pip list
+pip install requests
+pip list
+deactivate
+which python3
+'''bash
+man ls
+
+'''
+ls -h
+cd cod
+history
+python3
